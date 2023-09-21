@@ -1,4 +1,4 @@
-# useage
+# useage  [中文](https://github.com/AirParty/siyuan-plugin-fold-button/blob/main/README_zh_CN.md)
 set any block as a collapse button
 ![useage](https://github.com/AirParty/siyuan-plugin-fold-button/blob/main/useage.gif)
 # how to use

@@ -1,5 +1,5 @@
-# 作用
-
+# 作用 
+指定一个按钮，点击后可以折叠其他块
 ![useage](https://github.com/AirParty/siyuan-plugin-fold-button/blob/main/useage.gif)
 # 使用方法
 1. 复制需要折叠块的ID。
