@@ -1,0 +1,36 @@
+{
+  "name": "siyuan-plugin-fold-button",
+  "author": "niop",
+  "url": "",
+  "version": "0.1",
+  "minAppVersion": "2.10.5",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window"
+  ],
+  "displayName": {
+    "default": "Fold Button",
+    "zh_CN": "折叠按钮"
+  },
+  "description": {
+    "default": "Use click to toggle collapsible target block",
+    "zh_CN": "点击的时候折叠指定id块"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      ""
+    ]
+  }
+}
