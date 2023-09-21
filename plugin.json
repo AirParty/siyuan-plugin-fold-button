@@ -1,7 +1,7 @@
 {
   "name": "siyuan-plugin-fold-button",
   "author": "niop",
-  "url": "",
+  "url": "https://github.com/AirParty/siyuan-plugin-fold-button",
   "version": "0.1",
   "minAppVersion": "2.10.5",
   "backends": [
