@@ -22,4 +22,4 @@
  * SOFTWARE.
  *
  */
-[custom-fold]{padding:8px 12px;border:1px solid #ccc;border-radius:4px;color:#333;cursor:pointer}[custom-fold]:active{background:rgba(100,230,120,.8)}
+[custom-fold]{padding:8px 12px;border:1px solid #ccc;border-radius:4px;color:#333;cursor:pointer}[custom-fold]:active{background:rgba(100,230,120,.6) !important}

@@ -5,3 +5,11 @@ set any block as a collapse button
 1. get ID which target block
 2. add attribute 'fold' to button are.paset blockID in 'fold'.
 ![howToUse](https://github.com/AirParty/siyuan-plugin-fold-button/blob/main/howToUse.gif)
+
+# update history
+- v0.1 
+    new
+    - v0.1.1
+        upgate url
+    - v0.1.2
+        highlight button on click
