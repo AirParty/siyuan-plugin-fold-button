@@ -3,7 +3,7 @@
 ![useage](https://github.com/AirParty/siyuan-plugin-fold-button/blob/main/useage.gif)
 预览图有点大，放在github，插件页面看不到推荐打开左侧github地址看
 2. 双击折叠列表
-如标题，有序列表和无序列表都可以使用,兼容Dark+的脑图和看板，推荐搭配使用能实现很漂亮的内容
+如标题，有序列表和无序列表都可以使用,兼容任意更改了List渲染方式的插件和主题，如Dark+。
 ![listuseage](https://github.com/AirParty/siyuan-plugin-fold-button/blob/main/preview_list.png)
 # 使用方法
 ## 通用方式
