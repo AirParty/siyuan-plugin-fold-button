@@ -2,7 +2,7 @@
   "name": "siyuan-plugin-fold-button",
   "author": "niop",
   "url": "https://github.com/AirParty/siyuan-plugin-fold-button",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "minAppVersion": "2.10.5",
   "backends": [
     "windows",
@@ -18,8 +18,8 @@
     "zh_CN": "折叠按钮"
   },
   "description": {
-    "default": "Use click to toggle collapsible target block",
-    "zh_CN": "点击的时候折叠指定id块"
+    "default": "Use click to toggle collapsible target block,DoubleClick to collapse the child of the list",
+    "zh_CN": "点击的时候折叠指定id块,双击快速折叠List子项"
   },
   "readme": {
     "default": "README.md",
@@ -28,7 +28,7 @@
   "funding": {
     "openCollective": "",
     "patreon": "",
-    "github": "https://github.com/AirParty/siyuan-plugin-fold-button",
+    "github": "",
     "custom": [
       ""
     ]
