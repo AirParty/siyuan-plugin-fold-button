@@ -19,3 +19,5 @@
         highlight button on click
     - v0.1.3
         fold List with double click
+        - v0.1.3.1
+            fix Update Bug
