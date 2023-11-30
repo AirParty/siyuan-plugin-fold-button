@@ -27,3 +27,5 @@ Clicking the button that has been set for 'Collapse Next Block' will trigger the
             fix Update Bug.
 * v0.2
     Add a / menu option for 'Collapse Next Block,' now the collapse operation can directly control the next content block.
+  * v0.2.1
+    Fix the issue with the '/' menu not working; collapsing the next section can now affect both code blocks and databases.
